@@ -1,0 +1,407 @@
+body{
+    background-color: #e1e3ec;
+    font-size: 12px;
+    font-family:Tahoma,Verdana,Kalimati,sans-serif;
+	margin-top: auto;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 0px;;
+	color: #333333;
+
+}
+div.overall{
+	width: 1024px;
+	margin-top: auto;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 0px;;
+}
+
+/* Fonts */
+
+a{
+	font-weight: bold;
+	text-decoration:none;
+	color: #336699;
+}
+
+input.submit{
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+}
+
+td{
+    font-size: 12px;
+    font-family:Tahoma,Verdana,Kalimati,sans-serif;
+	color: #666666;
+}
+
+div.c{
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	color: #666666;
+}
+
+div.column-left div.column-body div.mid div.center p{
+	padding-top: 10px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	color: #666666;
+    font-size: 12px;
+}
+
+h1, h2, h3, h4, h5, h6
+{
+	color: #336699;
+}
+
+table.sms{
+	width: 100%;
+	text-align: center;
+}
+table.sms tr td{
+	width: 20px;;
+}
+
+
+
+
+/* MENU */
+div.menu{
+	height: 65px;
+	margin-bottom: 20px;
+}
+
+div.menu-l{
+	height: 65px;
+	width: 23px;
+	float: left;
+	background: url(images/menul.png);
+}
+
+div.menu-r{
+	height: 65px;
+	width: 23px;
+	float: left;
+	background: url(images/menur.png);
+}
+
+div.menu0{
+	height: 65px;
+	width: 144px;
+	float: left;
+	background: url(images/menu0.png);
+}
+div.menu1{
+	height: 65px;
+	width: 150px;
+	float: left;
+	background: url(images/menu1.png);
+}
+div.menu2{
+	height: 65px;
+	width: 80px;
+	float: left;
+	background: url(images/menu2.png);
+}
+div.menu3{
+	height: 65px;
+	width: 183px;
+	float: left;
+	background: url(images/menu3.png);
+}
+div.menu4{
+	height: 65px;
+	width: 170px;
+	float: left;
+	background: url(images/menu4.png);
+}
+div.menu5{
+	height: 65px;
+	width: 87px;
+	float: left;
+	background: url(images/menu5.png);
+}
+div.menu6{
+	height: 65px;
+	width: 160px;
+	float: left;
+	background: url(images/menu6.png);
+}
+
+
+
+
+/* LEFT */
+div.column-left{
+	width: 279px;
+	float: left;
+	margin-right: 10px;
+}
+
+div.column-left div.column-header{
+	height: 61px;
+	width: 279px;
+}
+
+div.column-left div.column-body{
+	width: 279px;
+}
+
+div.column-left div.column-header div.left{
+	height: 61px;
+	width: 23px;
+	float: left;
+	background: url(images/left_t_l.png);
+	
+}
+
+div.column-left div.column-header div.center{
+	height: 61px;
+	width: 240px;
+	float: left;
+	background: url(images/left_t_c.png);
+}
+
+div.column-left div.column-header div.center img{
+	height: 61px;
+	width: 88px;
+	border: 0px;
+}
+
+div.column-left div.column-header div.right{
+	height: 61px;
+	width: 15px;
+	float: left;
+	background: url(images/left_t_r.png);
+	
+}
+
+div.column-left div.column-body div.top{
+	height: 13px;
+}
+
+div.column-left div.column-body div.top div.left{
+	width: 23px;
+	height: 13px;
+	float: left;
+	background: url(images/left_tt_l.png);
+}
+div.column-left div.column-body div.top div.center{
+	width: 240px;
+	height: 13px;
+	float: left;
+	background: url(images/left_tt_c.png);
+}
+div.column-left div.column-body div.top div.right{
+	width: 15px;
+	height: 13px;
+	float: left;
+	background: url(images/left_tt_r.png);
+}
+
+div.column-left div.column-body div.mid div.konto{
+	height: 300px;
+}
+
+div.column-left div.column-body div.mid div.dot{
+	height: 400px;
+}
+
+div.column-left div.column-body div.mid div.log{
+	height: 200px;
+}
+
+div.column-left div.column-body div.mid div.stats{
+	height: 640px;
+}
+
+div.column-left div.column-body div.mid div.left{
+	width: 23px;
+	background: url(images/left_c_l.png);
+	float: left;
+}
+div.column-left div.column-body div.mid div.center{
+	width: 240px;
+	background-color: #ffffff;
+	float: left;
+}
+
+
+div.column-left div.column-body div.mid div.right{
+	width: 15px;
+	float: left;
+	background: url(images/left_c_r.png);
+}
+
+div.column-left div.column-body div.bot{
+	height: 12px;
+}
+
+div.column-left div.column-body div.bot div.left{
+	width: 23px;
+	height: 12px;
+	float: left;
+	background: url(images/left_b_l.png);
+}
+div.column-left div.column-body div.bot div.center{
+	width: 240px;
+	height: 12px;
+	float: left;
+	background: url(images/left_b_c.png);
+}
+div.column-left div.column-body div.bot div.right{
+	width: 15px;
+	height: 12px;
+	float: left;
+	background: url(images/left_b_r.png);
+}
+
+
+
+/* RIGHT */
+div.column-right{
+	width: 735px;
+	float: left;
+}
+
+div.column-right div.top{
+	height: 16px;
+	width: 735px;
+}
+
+div.column-right div.mid{
+	height: 1000px;
+}
+
+div.column-right div.bot{
+	height: 13px;
+}
+
+div.column-right div.top div.left{
+	height: 16px;
+	width: 12px;
+	float: left;
+	background: url(images/right_t_l.png);
+}
+
+div.column-right div.top div.center{
+	height: 16px;
+	width: 711px;
+	float: left;
+	background: url(images/right_t_c.png);
+}
+
+div.column-right div.top div.right{
+	height: 16px;
+	width: 12px;
+	float: left;
+	background: url(images/right_t_r.png);
+}
+
+div.column-right div.mid div.left{
+	height: 100%;
+	width: 12px;
+	float: left;
+	background: url(images/right_c_l.png);
+}
+
+div.main{
+	margin-right:20px;
+	margin-left:20px;
+}
+
+div.column-right div.mid div.center{
+	height: 100%;
+	width: 711px;
+	float: left;
+	background-color: #ffffff;
+}
+
+div.column-right div.mid div.right{
+	height: 100%;
+	width: 12px;
+	float: left;
+	background: url(images/right_c_r.png);
+}
+
+
+div.column-right div.bot div.left{
+	height: 13px;
+	width: 12px;
+	float: left;
+	background: url(images/right_b_l.png);
+}
+
+div.column-right div.bot div.center{
+	height: 13px;
+	width: 711px;
+	float: left;
+	background: url(images/right_b_c.png);
+}
+
+div.column-right div.bot div.right{
+	height: 13px;
+	width: 12px;
+	float: left;
+	background: url(images/right_b_r.jpg);
+}
+
+
+
+/* FOOTER */
+
+
+div.footer{
+	margin-top: 20px;
+	height: 73px;
+	float: left;
+}
+
+
+div.footer-body{
+	background: url(images/foo_c.png);
+	height: 73px;
+	float: left;
+	width: 989px;
+}
+
+div.footer-body  p{
+	padding-top:20px;
+	padding-right:10px;
+	padding-bottom:20px;
+	padding-left:10px;
+	text-align: center;
+	
+	color: #ffffff;
+}
+
+div.footer-body  a{
+	font-weight: bold;
+	color: #ffffff;
+}
+
+
+div.footer div.footer-left{
+	background: url(images/foo_l.png);
+	width: 23px;
+	height: 73px;
+	float: left;
+}
+
+div.footer div.footer-right{
+	background: url(images/foo_r.png);
+	width: 12px;
+	height: 73px;
+	float: right;	
+}
+
+input{
+	border: 1px solid gray;
+}
